@@ -1,0 +1,63 @@
+body{ 
+    font-family: 'Montserrat', sans-serif;
+    
+}
+
+
+
+
+h1{
+    color:#FFB300;
+    font-weight: black; 
+    font-size: 89px;
+    line-height: 79px;
+}
+
+h2,h3{
+
+    color:#FFB300;
+
+}
+
+.macarons-con-bebida{
+    width: 883px;
+height: 374px;
+}
+.consejos{
+
+    color: black;
+    font-weight: 550;
+    list-style: 1.61;
+
+}
+
+hr{
+    height: 5px;
+     background-color:#99999999;
+     margin-top: 34px; 
+     margin-bottom: 34px;
+}
+
+#pieDePagina{
+
+    margin-top: 1.5cm;
+    margin-bottom: 1.5cm;
+
+}
+
+.volver{
+
+    font-size: 20px;
+    border-radius: 10%;
+    background-color: aquamarine;
+}
+
+.volver :hover{
+
+    background-color: aqua; 
+    
+}
+
+
+
+
